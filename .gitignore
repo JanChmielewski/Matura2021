@@ -1,5 +1,3 @@
 .idea/
 target/
-/shelf/
-/.idea/workspace.xml
 *.iml
